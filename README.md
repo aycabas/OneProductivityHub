@@ -5,7 +5,7 @@ Tabs are Teams-aware webpages embedded in Microsoft Teams. Personal tabs are sco
 ## Prerequisites
 -  [NodeJS](https://nodejs.org/en/)
 
--  [M365 developer account](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant) or access to a Teams account with the appropriate permissions to install an app.
+-  [M365 developer account](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant?WT.mc_id=m365-0000-aycabas) or access to a Teams account with the appropriate permissions to install an app.
 
 ## Build and Run
 
